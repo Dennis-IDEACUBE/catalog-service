@@ -7,4 +7,5 @@ import org.springframework.data.jdbc.repository.config.EnableJdbcAuditing;
 @EnableJdbcAuditing
 public class DataConfig {
     
+    
 }
